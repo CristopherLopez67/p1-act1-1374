@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-gorila-1374.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_1374\p1-act1-1374\img-original-1374\img-gorila-1374.jpg
+Formato por extension: .JPG
+Tamano en bytes: 27919
+Tamano en KB: 27.26
+Tamano en MB: 0.0266
+
+DIMENSIONES
+-----------
+Ancho: 250 pixeles
+Alto: 254 pixeles
+Resolucion: 250 x 254
+Total de pixeles: 63,500
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 137.08
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 117.64
+Verde (G): 156.62
+Rojo (R): 136.97
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
